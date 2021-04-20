@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Megan Corletti",
-  "welcomeText": "# Welcome! Explore the development of my education studies",
+  "welcomeText": "# Welcome! \n Explore the development of my education studies",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "EDU544",
-  "seoMetaImage": ""
+  "seoMetaImage": "/images/uploads/megancorletti.png"
 }
