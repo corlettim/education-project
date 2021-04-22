@@ -25,7 +25,7 @@
             />
 
             <button
-              class="flex-shrink-0 bg-purple-900 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
+              class="flex-shrink-0 bg-purple-900 hover:bg-blue-700 border-purple-900 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
               type="submit"
             >
               Contact Me
