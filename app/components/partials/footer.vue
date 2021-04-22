@@ -35,7 +35,8 @@ import { Component, Vue } from 'nuxt-property-decorator';
 export default class Footer extends Vue {}
 </script>
 
-
+<style lang="scss">
 .footer {
-  background-color: bg-purple-900;
+  background-color: $bluise;
 }
+</style>
