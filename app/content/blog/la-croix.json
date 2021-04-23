@@ -1,6 +1,6 @@
 {
   "title": "Gator Aid; Unplug the Computer",
   "publishedAt": "29th Nov 2019",
-  "content": "< description of what my comp was >",
+  "content": "Gator Aid is an unplugged (i.e. computerless) interactive curriculum for teaching college-level introductory computer science that takes the form of a physical game. Responding to students dependencies on the computer holding the secret to what makes their code work. It is time to unplug from the computer and let students see that it comes down to their computational abilities that allow for the code to compile and build. The basis of this research focuses on "unplugged" activities that adapt gamification. Most 'unplugged' activities have been attempted with students that are K-12, in other subjects; there has been a lack of research done on computer science gamification on the surface level. In the case of Gator Aid, the curriculum will take on the challenge of achieving the high-level teaching strategies through interactive games needed for college introductory computer science classes. Each concept will have its own game to allow the students to focus primarily on the task/game at hand.",
   "featuredImage": "/images/uploads/gatoraidcircle.png"
 }
